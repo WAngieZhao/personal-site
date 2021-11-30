@@ -1,13 +1,13 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Wangyue (Angie) Zhao',
     path: '/',
   },
-  {
-    label: 'About',
-    path: '/about',
-  },
+  // {
+  //   label: 'About',
+  //   path: '/about',
+  // },
   {
     label: 'Resume',
     path: '/resume',
@@ -16,14 +16,14 @@ const routes = [
     label: 'Projects',
     path: '/projects',
   },
-  {
-    label: 'Stats',
-    path: '/stats',
-  },
-  {
-    label: 'Contact',
-    path: '/contact',
-  },
+  // {
+  //   label: 'Stats',
+  //   path: '/stats',
+  // },
+  // {
+  //   label: 'Contact',
+  //   path: '/contact',
+  // },
 ];
 
 export default routes;
