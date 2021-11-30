@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://mldangelo.com/",
+  "homepage": "https://WAngieZhao.github.io/[repository-name - default:personal-site]/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/WAngieZhao/personal-site.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
