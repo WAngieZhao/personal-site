@@ -59,9 +59,7 @@ const data = [
     link: 'https://drive.google.com/drive/folders/1Vea8bndyIHnkz3_KTwmESJxWkCGrKo4y?usp=sharing',
     date: '2020-04-01',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Implemented the A* Search Algorithm with Graph Search for solving the 15-puzzle problem. ',
   },
   {
     title: 'Automatic Futoshiki Solver with Back Tracking Algorithm',
@@ -70,9 +68,7 @@ const data = [
     link: 'https://drive.google.com/drive/folders/1Ig963jA3xleC8g3iV-amZ4DoUEe4hwZO?usp=sharing',
     date: '2020-05-01',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Designed and implemented a program to solve 6 × 6 Futoshiki puzzles with Back Tracking Algorithm. ',
   },
 ];
 
